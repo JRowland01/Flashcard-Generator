@@ -1,0 +1,19 @@
+
+Question: Where if the Eiffel Tower located? Answer: France
+Question: Which country was Celtic music created? Answer: Ireland{"question":"Which country was Celtic music created?","answer":"Ireland"}
+{"question":"Where is Nashville located?","answer":"Tennessee"}
+
+Question: Where is Nashville located? Answer: Tennessee{"question":"Which state is the home of Hollywood?","answer":"California"}
+{"question":"Which city is know as the Motor City?","answer":"Detroit"}
+{"question":"Where is Nashville located?","answer":"Tennessee"}
+{"question":"What is the capital of Mississippi?","answer":"Jackson"}
+{"question":"Where is Tokyo located?","answer":"Japan"}
+{"question":"Which TV show had the character Steve Urkel?","answer":"Family Matters"}
+{"question":"Which book contains the place Neverland?","answer":"Peter Pan"}
+{"basicQ":"What is the captial of Georgia?","answer":"Atlanta"}
+{"basicQ":"Little Rock is the capital of which state?","answer":"Arkansas"}
+{"basicQ":"What is the capital of Nevada?","answer":"Reno"}
+{"basicQ":"Where is Broadway located?","remaining":"New York"}
+{"basicQ":"What is Garfield's favorite food?","remaining":"spaghetti"}
+{"basicQ":"Who is the dog in Charlie Brown?","remaining":"Snoopy"}
+{"basicQ":"Who is Snoopy's dog?","remaining":"Charlie Brown"}

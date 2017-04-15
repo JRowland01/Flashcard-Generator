@@ -1,0 +1,14 @@
+{"cloze":"Atlanta","phrase":"is the capital of Georgia."}
+{"cloze":"Tinkerbell","phrase":"is the fairy in Peter Pan."}
+{"clozeQ":"Montgomery","remaining":"is the captial of Alabama."}
+{"clozeQ":"Saint Paul","remaining":"is the capital of Minnesota."}
+
+cloze: undefined text: undefined{"clozeQ":"Denver","remaining":"is the captial of Colorado."}
+{"clozeQ":"Helena","remaining":"is the capital of Montana."}
+{"clozeQ":"Olympia","remaining":"is the capital of Washington."}
+{"clozeQ":"Salem","remaining":"is the capital of Oregon."}
+{"clozeQ":"Tomatoes","remaining":"are the main ingredient in marinara sauce."}
+{"clozeQ":"Nashville","remaining":"is the capital of Tennessee."}
+{"clozeQ":"Laura Winslow","remaining":"was Steve Urkle's crush."}
+{"clozeQ":"Carl Winslow ","remaining":"is Laura's dad."}
+{"clozeQ":"Judy","remaining":"is Laura's sister."}
